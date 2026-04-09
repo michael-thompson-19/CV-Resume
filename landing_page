@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Your Name</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  style.css
+</head>
+<body>
+
+  <header>
+    <h1>Your Name</h1>
+    <p class="tagline">Your title or research focus</p>
+  </header>
+
+  <section>
+    <h2>About</h2>
+    <p>
+      Short professional bio goes here. Highlight your background,
+      interests, and current focus.
+    </p>
+  </section>
+
+  <section>
+    <h2>Published Works</h2>
+    <ul>
+      <li>
+        <strong>Paper Title</strong>, Journal / Conference, Year.
+        #Link</a>
+      </li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Current Projects</h2>
+    <ul>
+      <li>
+        <strong>Project Name</strong> – Short description.
+        #
+      </li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Links</h2>
+    <ul>
+      <li>#Resume (PDF)</a></li>
+      <li>#</li>
+      <li>#LinkedIn</a></li>
+    </ul>
+  </section>
+
+</body>
+</html>
